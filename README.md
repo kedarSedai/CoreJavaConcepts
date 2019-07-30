@@ -2,7 +2,7 @@
 Java is Object-oriented Prograaming that works on the principle of Objects.
 
 Advantages of OOP is:
-1. Object created in onject-oriented programming can be reused for other programming.
+1. Object created in object-oriented programming can be reused for other programming.
 2. The program written in OOP are easy to understand. 
 
 This Repo includes:
