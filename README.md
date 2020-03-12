@@ -15,5 +15,5 @@ This Repo includes:
 7. File Handling
 8. Exceptional handling(try, catch, throw, throws and finally).
 9. User input
-10. Decision making, loop control and much more...........
+10. Decision making, loop control and many more...........
 
